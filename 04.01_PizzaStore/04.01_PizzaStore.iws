@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="005ba914-c836-42b1-b6ab-86d4eb83c8f4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PizzaTestDrive.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pizza/ChicagoStyleCheesePizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pizza/ChicagoStyleClamPizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pizza/ChicagoStylePepperoniPizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pizza/ChicagoStyleVeggiePizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pizza/NYStyleCheesePizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pizza/NYStyleClamPizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pizza/NYStylePepperoniPizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pizza/NYStyleVeggiePizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pizza/Pizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pizzaStore/ChicagoPizzaStore.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pizzaStore/NYPizzaStore.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pizzaStore/PizzaStore.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../03.01_Starbuzz/starbuzz.iws" afterPath="$PROJECT_DIR$/../03.01_Starbuzz/starbuzz.iws" />
-    </list>
+    <list default="true" id="005ba914-c836-42b1-b6ab-86d4eb83c8f4" name="Default" comment="" />
     <ignored path="04.01_PizzaStore.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -753,12 +738,12 @@
       <option name="number" value="Default" />
       <updated>1461845677654</updated>
       <workItem from="1461845681005" duration="5165000" />
-      <workItem from="1462100708779" duration="2173000" />
+      <workItem from="1462100708779" duration="2318000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7338000" />
+    <option name="totallyTimeSpent" value="7483000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="37" y="23" width="1643" height="969" extended-state="0" />
