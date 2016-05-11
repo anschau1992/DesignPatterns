@@ -11,4 +11,6 @@
 03.01 StarBuzz - Implementation of **Decorative Pattern** <br />
 04.01  <br />
 05.01 Singleton - Implementation of **Singleton Pattern** <br />
+06.01 Simple Remote - **CommandPattern** <br />
+06.02 Remote Control - **CommandPattern** <br />
 
